@@ -1,5 +1,5 @@
 # Convolutional-Neural-Networks-in-TensorFlow
-Coursera 
+
 
 Four Courses Specialization Tensorflow in practise Specialization by coursera 
 Second course - Convolutional Neural Networks in TensorFlow 
